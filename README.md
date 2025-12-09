@@ -69,8 +69,9 @@ I am in the process of uploading more of my embedded systems and web development
 ---
 
 ## Contact Me
-- *Email:* ibuchukwuemmanuel@gmail.com  
+- *Email:* chinemeibuchukwu@gmail.com  
 - *GitHub:* https://github.com/Ibuchukwu
+- *Mobile: * +2347041143286
 
 ---
 
