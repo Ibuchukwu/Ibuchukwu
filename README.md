@@ -13,6 +13,7 @@ I specialize in combining *software engineering, **IoT, and **cloud technologies
 - HTML5, CSS3, JavaScript (ES6+)
 - Responsive UI design
 - Firebase Hosting
+- W3Schools Spaces (w3spaces) 
 - GitHub Pages
 
 ### *Backend / Cloud*
@@ -26,8 +27,8 @@ I specialize in combining *software engineering, **IoT, and **cloud technologies
 ### *Embedded Systems*
 - ESP32 / ESP8266 (ESP-IDF, Arduino framework)
 - Arduino Nano / ATmega microcontrollers
-- PlatformIO & Arduino IDE
-- Sensors, RFID, Displays (ST7735 TFT), SD card, Load cells
+- PlatformIO & Arduino IDE, Bluino IDE
+- Displays and peripherals integration, RFID, Displays (ST7735 TFT), SD card, Load cells and more.
 - Bluetooth, WiFi networking
 
 ### *Tools & Environments*
