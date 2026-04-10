@@ -16,7 +16,7 @@ I specialize in combining **Software engineering**, **IoT**, and **cloud technol
 - W3Schools Spaces (w3spaces) 
 - GitHub Pages
 
-### *Backend / Cloud*
+### *Backend / Cloud Development and Deplpoyment*
 - Node.js (Express, Fastify)
 - Firebase Cloud Functions
 - Firebase Authentication
