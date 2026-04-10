@@ -1,15 +1,15 @@
 # Hi, I'm Ibuchukwu Chineme Emmanuel  
 ### Full-Stack Web Developer | Embedded Systems Designer | Software Engineering Student
 
-I'm a 200-level Software Engineering student passionate about building *scalable web applications, **cloud-backed systems, and **embedded solutions*.
+I'm a 200-level Software Engineering student passionate about building *scalable web applications*, *cloud-backed systems*, and **embedded solutions*.
 
-I specialize in combining *software engineering, **IoT, and **cloud technologies* to build real-world solutions.
+I specialize in combining **Software engineering**, **IoT**, and **cloud technologies** to build real-world solutions.
 
 ---
 
 ## Skills & Technologies
 
-### *Frontend Development*
+### *Frontend Development and Deplpoyment*
 - HTML5, CSS3, JavaScript (ES6+)
 - Responsive UI design
 - Firebase Hosting
@@ -35,6 +35,7 @@ I specialize in combining *software engineering, **IoT, and **cloud technologies
 - Git, GitHub
 - Render, Netlify
 - PlatformIO
+- Arduino IDE and Arduino Cloud
 - VS Code
 
 ---
@@ -56,7 +57,7 @@ I specialize in combining *software engineering, **IoT, and **cloud technologies
 
 ---
 
-### *3. Virtual Top-Up Platform — (Web App, Production Ready)*
+### *3. Virtual Top-Up Platform — (Web App, In Production)*
 - A real virtual airtime recharge/payment platform with modern UI, security, and real-time transactions.  
 - *Tech:* Node.js, Firebase, Cloud Functions, Web APIs  
 * Repo:* https://github.com/Ibuchukwu/InByte  
@@ -72,7 +73,8 @@ I am in the process of uploading more of my embedded systems and web development
 ## Contact Me
 - *Email:* chinemeibuchukwu@gmail.com  
 - *GitHub:* https://github.com/Ibuchukwu
-- *Mobile: * +2347041143286
+- *Mobile & WhatsApp: * +2347041143286
+- 
 
 ---
 
